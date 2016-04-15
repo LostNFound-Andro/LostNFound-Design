@@ -1,2 +1,2 @@
 # LostNFound-Design
-Design Document for the LostNFound Application. Prepared using Latex.
+Object Oriented Design Document for the LostNFound Application. Prepared using Latex.
